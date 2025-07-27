@@ -8,6 +8,8 @@
     - [CS 310: Automata Theory](#cs-310-automata-theory)
     - [CS 339: Abstractions and Paradigms of Programming](#cs-339-abstractions-and-paradigms-of-programming)
     - [CS 348: Computer Networks](#cs-348-computer-networks)
+    - [CS 355: Abstractions and Paradigms of Programming Lab](#cs-355-abstractions-and-paradigms-of-programming-lab)
+    - [CS 378: Computer Networks Lab](#cs-378-computer-networks-lab)
 
 
 ## Timetable
@@ -29,3 +31,7 @@
 ### CS 339: Abstractions and Paradigms of Programming
 
 ### CS 348: Computer Networks
+
+### CS 355: Abstractions and Paradigms of Programming Lab
+
+### CS 378: Computer Networks Lab
