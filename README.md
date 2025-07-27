@@ -31,9 +31,27 @@
 
 ### CS 339: Abstractions and Paradigms of Programming
 
+#### Weightage
+
+| Evaluation    | Marks | Remarks                     |
+| ------------- | ----- | --------------------------- |
+| Quizzes       | 20    | 10 + 10 (for 45 mins each)  |
+| Midsem        | 30    | 2 hrs                       |
+| Endsem        | 40    | 2.5 hrs                     |
+| Participation | 10    | PCs, Attendance, Activities |
+
 ### CS 348: Computer Networks
 
 ### CS 355: Abstractions and Paradigms of Programming Lab
+
+#### Weightage
+
+| Evaluation     | Marks | Remarks                     |
+| -------------- | ----- | --------------------------- |
+| Lab Exercise   | 15    | Best 5 of 6 labs * 3        |
+| Lab Attendance | 10    | Best 5 of 6 labs * 1        |
+| Midsem         | 40    | Syllabus: Scheme, Java      |
+| Endsem         | 40    | Syllabus: Scheme, Haskell   |
 
 ### CS 378: Computer Networks Lab
 
