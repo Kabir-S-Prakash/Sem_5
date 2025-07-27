@@ -10,6 +10,7 @@
     - [CS 348: Computer Networks](#cs-348-computer-networks)
     - [CS 355: Abstractions and Paradigms of Programming Lab](#cs-355-abstractions-and-paradigms-of-programming-lab)
     - [CS 378: Computer Networks Lab](#cs-378-computer-networks-lab)
+  - [Electives:](#electives)
 
 
 ## Timetable
@@ -35,3 +36,5 @@
 ### CS 355: Abstractions and Paradigms of Programming Lab
 
 ### CS 378: Computer Networks Lab
+
+## Electives:
