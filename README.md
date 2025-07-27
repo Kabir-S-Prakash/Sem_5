@@ -1,6 +1,14 @@
 # Semester 5
 
 ## Contents
+- [Semester 5](#semester-5)
+  - [Contents](#contents)
+  - [Timetable](#timetable)
+  - [Courses](#courses)
+    - [CS 310: Automata Theory](#cs-310-automata-theory)
+    - [CS 339: Abstractions and Paradigms of Programming](#cs-339-abstractions-and-paradigms-of-programming)
+    - [CS 348: Computer Networks](#cs-348-computer-networks)
+
 
 ## Timetable
 
