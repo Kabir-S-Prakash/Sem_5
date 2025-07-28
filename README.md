@@ -31,7 +31,7 @@
 
 ### CS 339: Abstractions and Paradigms of Programming
 
-#### Weightage
+#### Evaluation
 
 | Evaluation    | Marks | Remarks                     |
 | ------------- | ----- | --------------------------- |
@@ -42,9 +42,20 @@
 
 ### CS 348: Computer Networks
 
+#### Evaluation
+
+| Evaluation      | Marks | Remarks                     |
+| --------------- | ----- | --------------------------- |
+| Safe Quizzes    | 15    | In every class              |
+| Regular Quizzes | 15    | Best 3 out of 4 quizzes     |
+| Midsem          | 30    |                             |
+| Endsem          | 40    |                             |
+
+- Attendance Policy: <75% => DX Grade
+
 ### CS 355: Abstractions and Paradigms of Programming Lab
 
-#### Weightage
+#### Evaluation
 
 | Evaluation     | Marks | Remarks                     |
 | -------------- | ----- | --------------------------- |
@@ -54,5 +65,15 @@
 | Endsem         | 40    | Syllabus: Scheme, Haskell   |
 
 ### CS 378: Computer Networks Lab
+
+#### Evaluation
+
+| Evaluation           | Marks | Remarks                     |
+| -------------------- | ----- | --------------------------- |
+| In Lab Evaluation    | 40    | In every lab              |
+| Midsem               | 30    |                             |
+| Endsem               | 30    |                             |
+
+- Attendance Policy: <75% => DX Grade
 
 ## Electives:
